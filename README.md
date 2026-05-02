@@ -1,4 +1,4 @@
 # DEMO
 This is my Git Repository
 <br/>
-Author - Tanisha Patravali
+Author - Tanisha Patravali (SDMCET)
